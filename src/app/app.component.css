@@ -2,7 +2,7 @@ body{
     box-sizing: border-box;
     background-image: url(Images/Fondo-pantalla.jpg);
     background-attachment: fixed;
-    height: 150ch;
+    height: 170ch;
     padding-top: 400px;
 }
 .content{
